@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.tekarch.fundtransfer.FundtransferApplicationTests" tests="1" skipped="0" failures="0" errors="0" timestamp="2024-12-16T23:42:45" hostname="MacBookPro" time="0.822">
+  <properties/>
+  <testcase name="contextLoads()" classname="com.tekarch.fundtransfer.FundtransferApplicationTests" time="0.822"/>
+  <system-out><![CDATA[18:42:43.829 [Test worker] INFO org.springframework.test.context.support.AnnotationConfigContextLoaderUtils -- Could not detect default configuration classes for test class [com.tekarch.fundtransfer.FundtransferApplicationTests]: FundtransferApplicationTests does not declare any static, non-private, non-final, nested classes annotated with @Configuration.
+18:42:43.940 [Test worker] INFO org.springframework.boot.test.context.SpringBootTestContextBootstrapper -- Found @SpringBootConfiguration com.tekarch.fundtransfer.FundtransferApplication for test class com.tekarch.fundtransfer.FundtransferApplicationTests
+
+  .   ____          _            __ _ _
+ /\\ / ___'_ __ _ _(_)_ __  __ _ \ \ \ \
+( ( )\___ | '_ | '_| | '_ \/ _` | \ \ \ \
+ \\/  ___)| |_)| | | | | || (_| |  ) ) ) )
+  '  |____| .__|_| |_|_| |_\__, | / / / /
+ =========|_|==============|___/=/_/_/_/
+
+ :: Spring Boot ::                (v3.3.6)
+
+2024-12-16T18:42:44.340-05:00  INFO 16793 --- [fundtransfer] [    Test worker] c.t.f.FundtransferApplicationTests       : Starting FundtransferApplicationTests using Java 17.0.12 with PID 16793 (started by bipanakoirala in /Users/bipanakoirala/Downloads/fundtransfer)
+2024-12-16T18:42:44.341-05:00  INFO 16793 --- [fundtransfer] [    Test worker] c.t.f.FundtransferApplicationTests       : No active profile set, falling back to 1 default profile: "default"
+2024-12-16T18:42:45.452-05:00  INFO 16793 --- [fundtransfer] [    Test worker] c.t.f.FundtransferApplicationTests       : Started FundtransferApplicationTests in 1.339 seconds (process running for 2.418)
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
